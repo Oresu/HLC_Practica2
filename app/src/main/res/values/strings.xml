@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HLC_Practica2</string>
+    <string name="comenzar_contador">Comenzar contador</string>
+    <string name="parar_contador">Parar contador</string>
+</resources>
